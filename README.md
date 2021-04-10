@@ -37,4 +37,4 @@ I'm Jamal Idaissa from Morocco, and I do Development. I really enjoy learning la
 <a href="https://www.linkedin.com/in/jamal-id-aissa-94a19417b/"><img src="https://img.shields.io/twitter/url?color=blue&label=idaissa%20jamal&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjamal-id-aissa-94a19417b%2F"/></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=id-ja](https://github.com/anuraghazra/github-readme-stats)
