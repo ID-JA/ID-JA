@@ -16,6 +16,5 @@ Skills: ASPNET / Entity Framework / REACT / JS / HTML / CSS
 
 <p align="center">
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-[![Twitter](https://img.shields.io/twitter/url?color=blue&label=idaissa%20jamal&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjamal-id-aissa-94a19417b%2F)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjamal-id-aissa-94a19417b%2F)</a>
+<a href="https://www.linkedin.com/in/jamal-id-aissa-94a19417b/"><img src="https://img.shields.io/badge/-Jamal-Idaissa-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 </p>
-
