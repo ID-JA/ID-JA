@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://drive.google.com/file/d/11CH6IOjDayqZa2M8I9hUpqEwOumBNwmr/view" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://i.postimg.cc/htM6tnH4/Jamal-Idaissa.jpg" alt="Jamal Idaissa .NET Developer">
 
 I'm Jamal Idaissa from Morocco, and I do Development. I really enjoy learning languages and frameworks like React and ASP.NET, as well as work with Microsoft Technologies
 
