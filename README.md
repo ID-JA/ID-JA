@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://i.postimg.cc/htM6tnH4/Jamal-Idaissa.jpg" alt="Jamal Idaissa .NET Developer">
+<img src="https://i.postimg.cc/htM6tnH4/Jamal-Idaissa.jpg" width="250px" height="200px" alt="Jamal Idaissa .NET Developer">
 
 I'm Jamal Idaissa from Morocco, and I do Development. I really enjoy learning languages and frameworks like React and ASP.NET, as well as work with Microsoft Technologies
 
