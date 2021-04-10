@@ -14,6 +14,7 @@ I'm Jamal Idaissa from Morocco, and I do Development. I really enjoy learning la
 ### 🛠 &nbsp;Tech Stack
 
 ![C sharp](https://img.shields.io/badge/-Csharp-05122A?logo=c-sharp&logoColor=239120&style=flat)&nbsp;
+![Microsoft Sql Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?logo=microsoft-sql-server&logoColor=CC2927&style=flat)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
@@ -22,7 +23,7 @@ I'm Jamal Idaissa from Morocco, and I do Development. I really enjoy learning la
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio]https://img.shields.io/badge/-Visual%20Studio-05122A?logo=visual-studio&logoColor=5C2D91&style=flat)&nbsp;
+
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> 
