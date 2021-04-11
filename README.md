@@ -1,5 +1,5 @@
 <a href="#"><img src="https://i.postimg.cc/hPfRQ6JB/t-l-chargement-removebg-preview.png" alt="Welcome to Jamal Idaissa's Github" width="100%"/></a>
-### Hi there 👋,
+### <h2 align="center">Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 .NET Developer
 
 I'm Jamal Idaissa from Morocco, and I do Development. I really enjoy learning languages and frameworks like React and ASP.NET, as well as work with Microsoft Technologies
