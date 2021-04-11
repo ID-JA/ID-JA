@@ -28,7 +28,7 @@ I'm Jamal Idaissa from Morocco, and I do Development. I really enjoy learning la
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?logo=visual-studio&logoColor=5C2D91&style=flat)&nbsp;
 
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID-JA&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite">
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ID-JA&show_icons=true&theme=dracula)
@@ -36,7 +36,7 @@ I'm Jamal Idaissa from Morocco, and I do Development. I really enjoy learning la
 </p>
 <h2 align="center">My Github Stats</h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ID-JA&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite">
+
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ID-JA&theme=dracula">
 </p>
