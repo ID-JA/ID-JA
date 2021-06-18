@@ -13,13 +13,15 @@ I'm Jamal Idaissa from Morocco, and I do Development. I really enjoy learning la
 ✉️ &nbsp;You can shoot me an email at idaissa93@gmail.com I'll try to respond as soon as I can.\
 
 ### 🛠 &nbsp;Tech Stack
-
+<div style="color:red;">
+hhhhh
+</div>
 ![C sharp](https://img.shields.io/badge/-Csharp-05122A?logo=c-sharp&logoColor=239120&style=flat)&nbsp;
-![Microsoft Sql Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?logo=microsoft-sql-server&logoColor=red&style=flat)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-05122A?logo=.net&logoColor=512BD4&style=flat)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?logo=next.js&logoColor=fff&style=flat)&nbsp;
+![Microsoft Sql Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?logo=microsoft-sql-server&logoColor=red&style=flat)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?logo=next.js&logoColor=fff&style=flat)&nbsp
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
