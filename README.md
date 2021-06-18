@@ -13,9 +13,7 @@ I'm Jamal Idaissa from Morocco, and I do Development. I really enjoy learning la
 ✉️ &nbsp;You can shoot me an email at idaissa93@gmail.com I'll try to respond as soon as I can.\
 
 ### 🛠 &nbsp;Tech Stack
-<div style="color:red;">
-hhhhh
-</div>
+
 ![C sharp](https://img.shields.io/badge/-Csharp-05122A?logo=c-sharp&logoColor=239120&style=flat)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-05122A?logo=.net&logoColor=512BD4&style=flat)&nbsp;
 ![Microsoft Sql Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?logo=microsoft-sql-server&logoColor=red&style=flat)&nbsp;
