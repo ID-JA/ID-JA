@@ -29,12 +29,6 @@ I'm Jamal Idaissa from Morocco, and I do Development. I really enjoy learning la
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?logo=visual-studio&logoColor=5C2D91&style=flat)&nbsp;
 
-<span align="right">
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID-JA)](https://github.com/anuraghazra/github-readme-stats)
-
-</span>
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ID-JA&show_icons=true&theme=dracula)
