@@ -35,7 +35,11 @@ I'm Jamal Idaissa from Morocco, and I do Development. I really enjoy learning la
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ID-JA&theme=dracula">
 
-<div align="right">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID-JA)](https://github.com/anuraghazra/github-readme-stats)</div>
+<div align="right">
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ID-JA)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
