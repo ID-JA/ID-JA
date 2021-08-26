@@ -46,7 +46,8 @@ I'm Jamal Idaissa from Morocco, and I do Development. I really enjoy learning la
 
 <p>
 <a href="https://web.facebook.com/jamal.id.aissa01/" traget="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jamal-id-aissa-94a19417b/"><img src="https://img.shields.io/twitter/url?color=blue&label=idaissa%20jamal&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjamal-id-aissa-94a19417b%2F"/></a>
+ <a href="mail:idaissa93@gmail.com" traget="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jamal-id-aissa-94a19417b/" traget="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
