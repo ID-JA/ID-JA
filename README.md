@@ -2,16 +2,7 @@
 ## 👨🏻‍💻 Web Developer 👨🏻‍💻
  Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
  
-I'm Jamal Idaissa from Morocco, and I do Development. I really enjoy learning languages and frameworks like React and ASP.NET, as well as work with Microsoft Technologies
-
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Microsoft Technologies.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at idaissa93@gmail.com I'll try to respond as soon as I can.\
-💢 &nbsp;My <a target="_blank" href="https://jamalidaissa.vercel.app">Portfolio</a>
+I'm Jamal Idaissa from Morocco, and I do Development. I really enjoy learning languages and frameworks like React and .NET
 
 ### 🛠 &nbsp;Tech Stack
 
