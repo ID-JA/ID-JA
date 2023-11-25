@@ -1,11 +1,15 @@
-### I'm Jamal, welcome to my GitHub profile
-- 🌱 I’m learning C#, Reactjs and Nestjs at the moment
+I'm a passionate web developer based in Agadir, Morocco, specializing in full-stack development. With a keen interest in modern technologies and frameworks, I bring creativity and efficiency to my projects.
 
-### Contact 
+## 🔧 Technologies & Tools
 
-<p>
-  <a href="https://www.linkedin.com/in/jamal-idaissa/" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
+- TypeScript
+- Next.js
+- Node.js
+- React
+- Remix (web framework)
+- Tailwind
+- C#
+- .NET
+- ASP.NET Web API
+- MongoDB
+- SQLite / SQL
