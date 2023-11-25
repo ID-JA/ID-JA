@@ -1,6 +1,6 @@
 I'm a passionate web developer based in Agadir, Morocco, specializing in full-stack development. With a keen interest in modern technologies and frameworks, I bring creativity and efficiency to my projects.
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies
 
 - TypeScript
 - Next.js
