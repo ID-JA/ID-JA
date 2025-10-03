@@ -25,4 +25,4 @@
 
 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=id-ja&show_icons=true&count_private=true" alt="spiderpig86" />
+<img src="https://github-readme-stats.vercel.app/api?username=id-ja&show_icons=true&count_private=true&theme=radical&hide_border=true&title_color=ff79c6&icon_color=50fa7b&text_color=ffffff&bg_color=282a36" />
