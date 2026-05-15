@@ -23,5 +23,4 @@
 
 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=id-ja&show_icons=true&count_private=true" alt="spiderpig86" />
 <p><em>Make it work, make it right, make it fast</em></p>
