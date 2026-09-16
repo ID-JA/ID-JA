@@ -2,7 +2,7 @@
 <p align="center">Data Scientist & AI Engineer with a software engineering background, building solutions across Machine Learning, Deep Learning, NLP, and GenAI. I enjoy turning data and AI models into practical applications, while exploring new approaches through research and personal projects. </p>
 <p align="center"><em> <strong>✨Always building, experimenting, and solving real-world problems.✨</strong></em></p>
 
-<p ><a href="[https://jamalidaissa.vercel.app/](https://www.jamalidaissa.me/)"><img src="https://img.shields.io/badge/-website-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://jamalidaissa.vercel.app/" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/jamal-idaissa/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/serbis/">
+<p ><a href="https://jamal-idaissa.vercel.app/"><img src="https://img.shields.io/badge/-website-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://jamalidaissa.vercel.app/" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/jamal-idaissa/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/serbis/">
 <p><em> <strong>✨Everything will work out ✨</strong></em></p>
 <img align="right" width="500px" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" />
 
