@@ -1,5 +1,6 @@
-<h2>Hey 👋, I'm <a href="#">Jamal</a></h2>
+<h2>Hello, I'm <a href="#">Jamal</a></h2>
 <p align="center">Data Scientist & AI Engineer with a software engineering background, building solutions across Machine Learning, Deep Learning, NLP, and GenAI. I enjoy turning data and AI models into practical applications, while exploring new approaches through research and personal projects. </p>
+<p align="center"><em> <strong>✨My philosophy is Curiosity✨</strong></em></p>
 <p align="center"><em> <strong>✨Always building, experimenting, and solving real-world problems.✨</strong></em></p>
 
 <p ><a href="https://jamal-idaissa.vercel.app/"><img src="https://img.shields.io/badge/-website-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://jamalidaissa.vercel.app/" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/jamal-idaissa/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/serbis/">
