@@ -1,4 +1,4 @@
-</h2><img width="2069" height="760" alt="Jamal ID Aissa" src="https://github.com/user-attachments/assets/1237a4f6-acc8-4378-a3d7-0842b5b7444d" />
+<img width="2069" height="760" alt="Jamal ID Aissa" src="https://github.com/user-attachments/assets/aee8c4c6-df43-4861-8493-4097174ca86a" />
 
 <p align="center">I am a Data Scientist & AI Engineer with a software engineering background, building solutions across Machine Learning, Deep Learning, NLP, and GenAI. I enjoy turning data and AI models into practical applications, while exploring new approaches through research and personal projects. </p>
 <p align="center"><em> <strong>✨My philosophy is Curiosity✨</strong></em></p>
